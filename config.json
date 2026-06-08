@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "sqlite-database",
+      "title": "Persistent Data with SQLite and Python",
+      "description": "Store, query, update, and delete data using SQLite in Python.",
+      "path": "assignments/sqlite-database",
+      "dueDate": "2026-08-05",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
